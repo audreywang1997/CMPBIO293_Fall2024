@@ -5,19 +5,13 @@ This one-year interactive seminar builds skills, knowledge and community in comp
 
 # Instructors
 - Professor: Ashley Wolf
-
 Office Location: 81D Koshland Hall
-
 e-mail: awolf@berkeley.edu
-
 office hours by appointment
 
 
-
-Graduate Student Instructor: Audrey (Li-Wen) Wang
-
+- Graduate Student Instructor: Audrey (Li-Wen) Wang
 e-mail: liwen.wang@berkeley.edu
-
 office hours: Thursday 12PM-1PM on Zoom (https://berkeley.zoom.us/j/9171269618)
 
 
